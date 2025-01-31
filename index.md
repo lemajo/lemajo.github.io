@@ -7,8 +7,9 @@ layout: default
 
 Hi there! I'm a third-year graduate student in the math department at Boston College, working with [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/). Before that, I obtained a Master's degree in Mathematics at UdelaR (in Uruguay, my home country), advised by [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
 
+<img src="images/Index.HEIC" alt="My Picture" style="float: right; width: 250px; border-radius: 10px; margin-left: 15px;">
+
 I spend most of my time thinking about discrete subgroups of Lie groups and their interaction with geometric structures. Sometimes, I also venture into low-dimensional topology, but sadly, time is finite.
 
 Feel free to contact me by email at: lemajo (at) bc (dot) edu.
 
-<img src="images/Index.HEIC" alt="My Picture" style="float: right; width: 200px; border-radius: 10px; margin-left: 15px;">
