@@ -5,11 +5,10 @@ layout: default
 
 # About me
 
+Hi there! I'm a third-year graduate student in the math department at Boston College, working with [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/). Before that, I obtained a Master's degree in Mathematics at UdelaR (in Uruguay, my home country), advised by [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <p> Hi there! I'm a third-year graduate student in the math department at Boston College, working with [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/). Before that, I obtained a Master's degree in Mathematics at UdelaR (in Uruguay, my home country), advised by [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
- </p>
     </div>
     <div style="margin-left: 20px; text-align: center;">
         <img src="images/Index.HEIC" alt="My Picture" style="width: 250px; border-radius: 10px;">
