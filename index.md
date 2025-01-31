@@ -7,9 +7,9 @@ layout: default
 
 <div style="float: right; margin-left: 20px; text-align: center;">
     <img src="images/Index.HEIC" alt="My Picture" style="width: 325px; border-radius: 10px;">
-    <p style="font-size: 14px; color: gray;"> Credits for the picture go to <a href="https://sites.google.com/view/joeboninger">Joe Boninger</a>.  
+    <p style="font-size: 14px; margin-bottom:0; color: gray;"> Credits for the picture go to <a href="https://sites.google.com/view/joeboninger">Joe Boninger</a>.  
     </p> 
-    <p style="font-size: 14px; color: gray;"> The sutures are his, but the bad handwriting is mine!
+    <p style="font-size: 14px; margin: 0; padding-top:0;  color: gray;"> The sutures are his, but the bad handwriting is mine!
     </p>
 </div>
 
