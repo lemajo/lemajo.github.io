@@ -12,12 +12,9 @@ Hi there! I'm a third-year graduate student in the math department at Boston Col
     </div>
     <div style="margin-left: 20px; text-align: center;">
         <img src="images/Index.HEIC" alt="My Picture" style="width: 250px; border-radius: 10px;">
-        <p style="font-size: 14px; color: gray;">This is me, deep in thought!</p>
+        <p style="font-size: 14px; color: gray;"> Credits for this picture goes to Joe Boninger. The sutured manifolds are also his, but the bad handwritting in between is all mine.</p>
     </div>
 </div>
-
-
-<img src="images/Index.HEIC" alt="My Picture" style="float: right; width: 250px; border-radius: 10px; margin-left: 15px;">
 
 I spend most of my time thinking about discrete subgroups of Lie groups and their interaction with geometric structures. Sometimes, I also venture into low-dimensional topology, but sadly, time is finite.
 
