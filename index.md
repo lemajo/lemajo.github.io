@@ -1,4 +1,7 @@
-## About me
+---
+title: "About me"
+layout: default
+---
 
 Hi there! I'm a third-year graduate student in the math department at Boston College, working with [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/). Before that, I obtained a Master's degree in Mathematics at UdelaR (in Uruguay, my home country), advised by [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
 
