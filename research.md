@@ -18,6 +18,7 @@ I cannot say I was succesful, but I ended up learning some stuff about represent
     <li>
                 **An Epstein construction for $G-$opers**   
     </li>
+</ol>
 
 ## Preprints
 
