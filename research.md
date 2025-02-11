@@ -9,17 +9,9 @@ I cannot say I was succesful, but I ended up learning some stuff about represent
 
 ## In preparation
 
-<ol>
-    <li>
-                **Bisectors in $SL_n (\mathbb{F})$ and representations of Coxeter groups**  
-                *Joint with [Joaquin Lejtreger]{https://joacolej.github.io}*  
-    </li>
-    
-    <li>
-                **An Epstein construction for $G-$opers**   
-    </li>
-</ol>
-
+1. **Bisectors in $SL_n (\mathbb{F})$ and representations of Coxeter groups**  
+     *Joint with [Joaquin Lejtreger]{https://joacolej.github.io}*  </li>
+2. **An Epstein construction for $G-$opers**   
 ## Preprints
 
 Nothing here yet :(
