@@ -19,11 +19,6 @@ Nothing here yet :(
 
 ## Publications
 
----
-title: Research
-layout: default
----
-
 # My Research Papers
 
 <ol>
