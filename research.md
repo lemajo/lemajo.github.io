@@ -19,4 +19,22 @@ Nothing here yet :(
 
 ## Publications
 
+---
+title: Research
+layout: default
+---
 
+# My Research Papers
+
+<ol>
+    <li>
+        <div style="display: flex; align-items: center; margin-bottom: 20px;">
+            <img src="images/paper=uniformfol.jpeg" alt="Paper 1" style="width: 120px; height: auto; margin-right: 15px;">
+            <div>
+                **[Uniform foliations with Reeb components.](https://msp.org/agt/2023/23-9/agt-v23-n9-p10-s.pdf)**    
+                *Published in: Algebraic & Geometric Topology*
+                *Year: 2023*
+            </div>
+        </div>
+    </li>
+</ol>
