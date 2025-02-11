@@ -13,14 +13,10 @@ I cannot say I was succesful, but I ended up learning some stuff about represent
     <li>
                 **Bisectors in $SL_n (\mathbb{F})$ and representations of Coxeter groups**  
                 *Joint with [Joaquin Lejtreger]{https://joacolej.github.io}*  
-            </div>
-        </div>
     </li>
     
     <li>
                 **An Epstein construction for $G-$opers**   
-            </div>
-        </div>
     </li>
 
 ## Preprints
