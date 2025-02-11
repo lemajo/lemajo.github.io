@@ -21,7 +21,7 @@ Nothing here yet :(
 
 # My Research Papers
 
-- ![Paper 1]{images/paper-uniformfol.jpeg){ width=120 style="border-radius:10px; float: left; margin-right:15px;"}
+- ![Paper 1](images/paper-uniformfol.jpeg){ width=120 style="border-radius:10px; float: left; margin-right:15px;"}
   **[Uniform foliations with Reeb components.](https://msp.org/agt/2023/23-9/agt-v23-n9-p10-s.pdf)**    
   *Published in: Algebraic & Geometric Topology*
   *Year: 2023*
