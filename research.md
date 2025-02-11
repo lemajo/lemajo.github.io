@@ -11,8 +11,6 @@ I cannot say I was succesful, but I ended up learning some stuff about represent
 
 <ol>
     <li>
-        <div style="display: flex; align-items: center; margin-bottom: 20px;">
-            <div>
                 **Bisectors in $SL_n (\mathbb{F})$ and representations of Coxeter groups**  
                 *Joint with [Joaquin Lejtreger]{https://joacolej.github.io}*  
             </div>
@@ -20,8 +18,6 @@ I cannot say I was succesful, but I ended up learning some stuff about represent
     </li>
     
     <li>
-        <div style="display: flex; align-items: center; margin-bottom: 20px;">
-            <div>
                 **An Epstein construction for $G-$opers**   
             </div>
         </div>
