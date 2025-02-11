@@ -25,4 +25,5 @@ Nothing here yet :(
   **[Uniform foliations with Reeb components.](https://msp.org/agt/2023/23-9/agt-v23-n9-p10-s.pdf)**    
   *Published in: Algebraic & Geometric Topology*
   *Year: 2023*
-<div style="clear: both;></div>
+
+<div style="clear: both;"></div>
