@@ -19,4 +19,7 @@ I work in Geometry and Topology. More specifically, I think about discrete subgr
 
 Feel free to contact me by email at: lemajo (at) bc (dot) edu.
 
+## Recent and upcoming travel:
 
+- [Higher Rank Geometric structures](https://indico.math.cnrs.fr/event/11551/). Dates: May 11 to June 29.
+- [SLMath program: Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]{https://www.slmath.org/programs/365#overview_programs}. Dates: Spring 2026
