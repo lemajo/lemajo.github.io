@@ -13,7 +13,7 @@ Here is a collection of my academic theses and expository notes.
 
 ### En español
 
-- **[Foliaciones uniformes en 3-variedades](pdfs/main.pdf)** (Tesis Riemann-Roch maestría).
+- **[Foliaciones uniformes en 3-variedades](pdfs/main.pdf)** (Tesis de maestría).
   <br><strong>Resumen:</strong> Es una version extendida de mi primer articulo que pueden encontrar [acá](/research). Ojalá resulte una introducción decente a la topología de tres variedades y a foliaciones.
   <br><br>
 
