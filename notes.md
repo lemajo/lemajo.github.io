@@ -18,5 +18,5 @@ Here is a collection of my academic theses and expository notes.
   <br><br>
 
 - **[Curvas pseudoholomorfas y aplicaciones](pdfs/Tesis_final.pdf)** (Tesis de licenciatura).
-  <br><strong>Resumen:</strong> El objetivo es dar una prueba autocontenida del teorema "non-squeezing" de Gromov. Compila muchas cosas que en el momento no estaban juntas en ninguna referencia (ahora quizás es distinto). Estoy particularmente contento de la prueba de Riemann-Roch.
+  <br><strong>Resumen:</strong> El objetivo es dar una prueba autocontenida del teorema "non-squeezing" de Gromov. Compila muchas cosas que en el momento no estaban juntas en ninguna referencia (ahora quizás es distinto). Estoy particularmente contento con la prueba de Riemann-Roch.
 
