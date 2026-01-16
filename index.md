@@ -13,15 +13,13 @@ layout: default
     </p>
 </div>
 
-Hi there! I'm a third-year graduate student in the math department at Boston College, working with [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/). Before that, I obtained a Master's degree in Mathematics at UdelaR (in Uruguay, my home country), advised by [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home). 
+I am a fourth-year Ph.D. candidate at Boston College, advised by [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/).
 
-I work in Geometry and Topology. More specifically, I think about discrete subgroups of Lie groups.
+My research focuses on the study of discrete subgroups of Lie groups using techniques from dynamics and differential geometry.
 
-Feel free to contact me by email at: lemajo (at) bc (dot) edu.
+Before coming to Boston, I earned my Master's degree at UdelaR (Uruguay), under the supervision of [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
 
-## Recent and upcoming travel:
+You can find my CV [here](pdfs/cv_eng_long.pdf) (actualized Jan 26) and my papers in [here](research.md).
 
-- [Higher Rank Geometric structures](https://indico.math.cnrs.fr/event/11551/).
-  _May 11 to June 29._
-- [SLMath program: Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/programs/365#overview_programs).
-  _Spring 2026._
+**Contact:** lemajo (at) bc (dot) edu  
+**Office:** 
