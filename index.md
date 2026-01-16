@@ -19,7 +19,7 @@ My research focuses on the study of discrete subgroups of Lie groups using techn
 
 Before coming to Boston, I earned my Master's degree at UdelaR (Uruguay), under the supervision of [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
 
-You can find my CV [here](pdfs/cv_eng_long.pdf) (actualized Jan 26) and my papers in [here](research.md).
+You can find my CV [here](pdfs/cv_eng_long.pdf) (actualized Jan 16) and my papers in [here](research.md).
 
 **Contact:** lemajo (at) bc (dot) edu  
 **Office:** 534 Maloney Hall,. Department of Mathematics, Boston College. Chestnut Hill, MA
