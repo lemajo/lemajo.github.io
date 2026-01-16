@@ -8,6 +8,7 @@ layout: default
     <ul style="margin-top: 10px; line-height: 1.6;">
         <li>Differential geometric aspects of symmetric spaces</li>
         <li>Quantitative properties of Anosov representations</li>
+        <li>Geometry of character varieties</li>
         <li>Geometric structures</li>
     </ul>
 </div>
