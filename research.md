@@ -8,7 +8,7 @@ layout: default
     <ul style="margin-top: 10px; line-height: 1.6;">
         <li>Differential geometric aspects of symmetric spaces</li>
         <li>Quantitative properties of Anosov representations</li>
-        <li>Geometry of locally symmetric spaces</li>
+        <li>Geometric structures</li>
     </ul>
 </div>
 
@@ -17,13 +17,13 @@ layout: default
 ## Preprints
 
 <div style="margin-bottom: 30px; overflow: auto;">
-    <img src="images/paper-epstein.jpg" alt="Epstein Surfaces" style="width:140px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="images/paper-epstein.jpg" alt="Epstein Surfaces" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
         <strong>Epstein surfaces for G-opers.</strong><br>
         <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a>.</em>
         <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
-            <strong>Summary:</strong> We construct a higher-rank analogue of the Epstein surfaces for G-opers, extending the classical work on hyperbolic surfaces to the context of Hitchin representations.
+            <strong>Summary:</strong> We extend the notion of Epstein surfaces to G-opers.
         </p>
     </div>
 </div>
@@ -37,7 +37,7 @@ layout: default
         <strong>Uniform foliations with Reeb components.</strong><br>
         <em>Algebraic & Geometric Topology 23:9 (2023), 4379–4400. <a href="https://msp.org/agt/2023/23-9/agt-v23-n9-p10-s.pdf">[Journal]</a> <a href="LINK_TO_ARXIV">[arXiv]</a>.</em>
         <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
-            <strong>Summary:</strong> We classify uniform foliations on 3-manifolds that admit Reeb components, proving a rigidity result for the leaf structure.
+            <strong>Summary:</strong> We show examples and control the behavior of uniform foliations with Reeb components in closed three-manifolds.
         </p>
     </div>
 </div>
