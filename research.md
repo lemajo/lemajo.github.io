@@ -21,8 +21,8 @@ layout: default
     <img src="images/paper-epstein.jpg" alt="Epstein Surfaces" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
-        <strong>Epstein surfaces for G-opers.</strong><br>
-        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a>.</em>
+        <strong>Epstein-Poincaré surfaces for G-opers.</strong><br>
+        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted).</em>
         <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
             <strong>Summary:</strong> We extend the notion of Epstein surfaces to G-opers.
         </p>
