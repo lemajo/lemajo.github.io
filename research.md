@@ -18,6 +18,18 @@ layout: default
 ## Preprints
 
 <div style="margin-bottom: 30px; overflow: auto;">
+    <img src="images/paper-separated.pdf" alt="Separated Representations" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    
+    <div style="overflow: hidden;">
+        <strong>On separated families of Anosov representations.</strong><br>
+        <em>Preprint (2026). <a href="https://arxiv.org/abs/2604.18994">[arXiv:2604.18994]</a>.</em>
+        <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
+            <strong>Summary:</strong> We introduce different notions of separation for families of Anosov representations. We show that, along a diverging sequence of such families, the critical exponent is asymptotic to a combinatorial invariant computable from the spectral data of a finite graph.
+        </p>
+    </div>
+</div>
+
+<div style="margin-bottom: 30px; overflow: auto;">
     <img src="images/paper-epstein.jpg" alt="Epstein Surfaces" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
