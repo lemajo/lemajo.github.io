@@ -60,10 +60,6 @@ layout: default
 ## In Preparation
 
 <ul>
-    <li style="margin-bottom: 10px;">
-        <strong>Quantitative entropy decay for \(SL_3 (\mathbb{R})\) pants representations.</strong><br>
-        <em>Joint with <a href="https://joacolej.github.io">Joaquin Lejtreger</a>.</em>
-    </li>
     <li>
         <strong>On ideal triangle group representations onto \(SL_3 (\mathbb{C})\).</strong><br>
         <em>Joint with <a href="https://joacolej.github.io">Joaquin Lejtreger</a>.</em>
