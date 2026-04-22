@@ -18,7 +18,7 @@ layout: default
 ## Preprints
 
 <div style="margin-bottom: 30px; overflow: auto;">
-    <img src="images/paper-separated.jpg" alt="Separated Representations" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="images/paper-separated_page-0001.jpg" alt="Separated Representations" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
         <strong>On separated families of Anosov representations.</strong><br>
