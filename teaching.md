@@ -36,9 +36,6 @@ feel free to reach out, I am happy to share them.
 
 ### Universidad de la República (FCIEN)
 
-*Asistente* is a faculty-track instructional role in the Uruguayan university 
-system, involving independent course delivery.
-
 | Course | Term |
 |--------|------|
 | **Mathematics I** for Life Sciences (*Matemática 1 para Biociencias*) | Fall 2022 |
