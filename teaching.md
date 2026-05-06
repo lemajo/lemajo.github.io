@@ -19,7 +19,6 @@ feel free to reach out, I am happy to share them.
 <div style="float: right; margin-left: 20px; text-align: center;">
     <img src="/images/teaching.jpeg" alt="Students with low standars" style="width: 325px; border-radius: 10px;"> 
 </div>
----
 
 ### Boston College
 
