@@ -55,7 +55,7 @@ feel free to reach out, I am happy to share them.
 
 I benefited enormously from mentors who shared mathematics with me early on, 
 and I try to do the same for students whenever I can. If you are a BC student 
-curious about mathematics — at any level — feel free to get in touch.
+curious about mathematics at any level, feel free to get in touch.
 
 - **[Directed Reading Program](https://sites.google.com/bc.edu/bc-math-drp/home)** 
   — Spring 2026  
