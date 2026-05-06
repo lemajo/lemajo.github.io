@@ -5,6 +5,12 @@ layout: default
 
 # Teaching and Mentorship
 
+<div style="float: right; margin: 0 0 20px 30px; text-align: center;">
+  <img src="/images/teaching.jpeg" 
+       alt="Teaching at BC" 
+       style="width: 325px; border-radius: 10px;">
+</div>
+
 I have been teaching mathematics since my undergraduate years in Uruguay, 
 where I held positions as a TA across a wide range of courses. At Boston College, 
 I have served as instructor, course designer, and teaching assistant at 
@@ -16,11 +22,6 @@ at Boston College for my work as a Teaching Assistant.
 If you are interested in materials developed for any of the courses below, 
 feel free to reach out, I am happy to share them.
 
-<div style="float: right; margin: 0 0 20px 30px; text-align: center;">
-  <img src="/images/teaching.jpeg" 
-       alt="Teaching at BC" 
-       style="width: 325px; border-radius: 10px;">
-</div>
 
 ### Boston College
 
