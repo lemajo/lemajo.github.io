@@ -17,7 +17,7 @@ If you are interested in materials developed for any of the courses below,
 feel free to reach out, I am happy to share them.
 
 <div style="float: right; margin: 0 0 20px 30px; text-align: center;">
-  <img src="{{/images/teaching.jpeg}}" 
+  <img src="{/images/teaching.jpeg}" 
        alt="Teaching at BC" 
        style="width: 325px; border-radius: 10px;">
 </div>
