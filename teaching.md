@@ -27,6 +27,7 @@ feel free to reach out, I am happy to share them.
 
 | Course | Role | Term |
 |--------|------|------|
+|**Finite Probability and Applications** (Math 1004) | Designer & Instructor | Summer 2026 |
 | **Analysis I** (Math 3321) | Teaching Assistant | Fall 2025 |
 | **Finite Probability and Applications** (Math 1004) | Designer & Instructor | Summer 2025 |
 | **Statistics for the Health Sciences** (Math 1180) | Instructor | Spring 2025 |
