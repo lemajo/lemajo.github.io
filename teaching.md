@@ -16,8 +16,10 @@ at Boston College for my work as a Teaching Assistant.
 If you are interested in materials developed for any of the courses below, 
 feel free to reach out, I am happy to share them.
 
-<div style="float: right; margin-left: 20px; text-align: center;">
-    <img src="/images/teaching.jpeg" alt="Students with low standars" style="width: 325px; border-radius: 10px;"> 
+<div style="float: right; margin: 0 0 20px 30px; text-align: center;">
+  <img src="{{ '/images/teaching.jpeg' | relative_url }}" 
+       alt="Students with low standards" 
+       style="width: 325px; border-radius: 10px;">
 </div>
 
 ### Boston College
