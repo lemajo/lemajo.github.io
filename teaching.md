@@ -61,7 +61,7 @@ curious about mathematics — at any level — feel free to get in touch.
   — Spring 2026  
   Mentored Eduardo Madero and Luke Kurta through a reading of Étienne Ghys's 
   *[A Singular Mathematical Promenade](https://arxiv.org/abs/1612.06373)*. Inspired by the project, 
-  Eduardo produced a poster presented at the *Math for All* conference held at BC. 
+  Eduardo produced a [poster](pdfs/Poster Eduardo.pdf) presented at the *Math for All* conference held at BC. 
 
 - **Talleres de Matemática** (Uruguay)  
   Designed and delivered workshops on Euclidean geometry for high school 
