@@ -23,7 +23,7 @@ layout: default
     <div style="overflow: hidden;">
         <strong>On separated families of Anosov representations.</strong><br>
         <em>Joint with <a href="https://joacolej.github.io">Joaquin Lejtreger</a>.</em>
-        <em>Preprint (2026). <a href="https://arxiv.org/abs/2604.18994">[arXiv:2604.18994]</a>.</em>
+        <em>Preprint (2026). <a href="https://arxiv.org/abs/2604.18994">[arXiv:2604.18994]</a> (submitted).</em>
         <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
             <strong>Summary:</strong> We introduce different notions of separation for families of Anosov representations. We show that, along a diverging sequence of such families, the critical exponent is asymptotic to a combinatorial invariant computable from the spectral data of a finite graph.
         </p>
