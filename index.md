@@ -13,13 +13,14 @@ layout: default
     </p>
 </div>
 
-I am a fourth-year Ph.D. candidate at Boston College, advised by [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/).
+I am a fifth-year Ph.D. candidate at Boston College, advised by [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/).
+
+I'm currently in the job market!
+You can find my CV [here](pdfs/cv_eng_long.pdf) (actualized Jan 16) and my papers in [here](research.md).
 
 My research focuses on the study of discrete subgroups of Lie groups using techniques from dynamics and differential geometry.
 
-Before coming to Boston, I earned my Master's degree at UdelaR (Uruguay), under the supervision of [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
-
-You can find my CV [here](pdfs/cv_eng_long.pdf) (actualized Jan 16) and my papers in [here](research.md).
+Before coming to Boston, I earned my Master's degree at UdelaR (Uruguay, where I'm originally from), under the supervision of [Rafael Potrie](https://sites.google.com/view/rafaelpotrie/home).
 
 **Contact:** lemajo (at) bc (dot) edu  
-**Office:** 534 Maloney Hall,. Department of Mathematics, Boston College. Chestnut Hill, MA
+**Office:** 540 Maloney Hall,. Department of Mathematics, Boston College. Chestnut Hill, MA
