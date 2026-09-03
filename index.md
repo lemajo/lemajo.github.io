@@ -16,7 +16,7 @@ layout: default
 I am a fifth-year Ph.D. candidate at Boston College, advised by [Martin Bridgeman](https://sites.google.com/bc.edu/martin-bridgeman/).
 
 I'm currently in the job market!
-You can find my CV [here](pdfs/cv_eng_long.pdf) (actualized Jan 16) and my papers in [here](research.md).
+You can find my CV [here](pdfs/cv_eng.pdf) (actualized Jan 16) and my papers in [here](research.md).
 
 My research focuses on the study of discrete subgroups of Lie groups using techniques from dynamics and differential geometry.
 
