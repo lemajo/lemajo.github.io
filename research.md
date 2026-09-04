@@ -59,10 +59,18 @@ layout: default
 ---
 
 ## In Preparation
+Available upon request.
 
 <ul>
     <li>
-        <strong>On ideal triangle group representations onto \(SL_3 (\mathbb{C})\).</strong><br>
+        <strong>Convex projective structures in the ideal reflection orbifold from the inside.</strong><br>
+        <em>Joint with <a href="https://www.math.uni-bonn.de/people/douba/">Sami Douba</a> and <a href="https://www.ihes.fr/~/galiay/">Blandine Galiay</a>.</em>
+    </li>
+</ul>
+
+<ul>
+    <li>
+        <strong>Convex projective structures in the ideal reflection orbifold from the inside.</strong><br>
         <em>Joint with <a href="https://joacolej.github.io">Joaquin Lejtreger</a>.</em>
     </li>
 </ul>
