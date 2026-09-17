@@ -35,7 +35,7 @@ layout: default
     
     <div style="overflow: hidden;">
         <strong>Epstein-Poincaré surfaces for G-opers.</strong><br>
-        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted). <a href="/pdfs/addendum-errata.pdf">[Addendum/errata]</a>
+        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted).
         </em>
         <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
             <strong>Summary:</strong> We extend the notion of Epstein-Poincaré surfaces to G-opers and use them to understand the holonomy of an oper near the Fuchsian locus.
