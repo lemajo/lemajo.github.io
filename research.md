@@ -35,8 +35,8 @@ layout: default
     
     <div style="overflow: hidden;">
         <strong>Epstein-Poincaré surfaces for G-opers.</strong><br>
-        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted).</em>
-        <em><a href="/pdfs/addendum-errata.pdf">Addendum/errata</a>.</em>
+        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted). <a href="/pdfs/addendum-errata.pdf">[Addendum/errata]</a>
+        </em>
         <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
             <strong>Summary:</strong> We extend the notion of Epstein-Poincaré surfaces to G-opers and use them to understand the holonomy of an oper near the Fuchsian locus.
         </p>
@@ -64,7 +64,7 @@ Available upon request.
 
 <ul>
     <li>
-        <strong>Convex projective structures in the ideal reflection orbifold from the inside.</strong><br>
+        <strong>Zariski-density of discrete subgroups and their flag limit sets.</strong><br>
         <em>Joint with <a href="https://www.math.uni-bonn.de/people/douba/">Sami Douba</a> and <a href="https://www.ihes.fr/~/galiay/">Blandine Galiay</a>.</em>
     </li>
 </ul>
