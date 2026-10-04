@@ -4,13 +4,9 @@ layout: default
 ---
 
 <div style="font-size: 1.1em; margin-bottom: 30px;">
-    <strong>My research interests include:</strong>
-    <ul style="margin-top: 10px; line-height: 1.6;">
-        <li>Differential geometric aspects of symmetric spaces</li>
-        <li>Quantitative properties of Anosov representations</li>
-        <li>Geometry of character varieties</li>
-        <li>Geometric structures</li>
-    </ul>
+<p>
+My main interest is the study of discrete subgroups of Lie groups, particularly Anosov representations. I enjoy thinking about problems that draw on tools from many areas, especially dynamics, geometry, and topology. 
+</p>
 </div>
 
 ---
