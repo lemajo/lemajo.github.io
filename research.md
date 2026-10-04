@@ -14,7 +14,7 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
 ## Preprints
 
 <div style="margin-bottom: 30px; overflow: auto;">
-    <img src="images/paper-separated_page-0001.jpg" alt="Separated Representations" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="images/paper-separated_page-0001.jpg" alt="Separated Representations" style="width:120px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
         <strong>On separated families of Anosov representations.</strong><br>
@@ -24,7 +24,7 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
 </div>
 
 <div style="margin-bottom: 30px; overflow: auto;">
-    <img src="images/paper-epstein.jpg" alt="Epstein Surfaces" style="width:160px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="images/paper-epstein.jpg" alt="Epstein Surfaces" style="width:120px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
         <strong>Epstein-Poincaré surfaces for G-opers.</strong><br>
@@ -36,7 +36,7 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
 ## Publications
 
 <div style="margin-bottom: 30px; overflow: auto;">
-    <img src="images/paper-uniformfol.jpeg" alt="Uniform Foliations" style="width:140px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="images/paper-uniformfol.jpeg" alt="Uniform Foliations" style="width:120px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
         <strong>Uniform foliations with Reeb components.</strong><br>
