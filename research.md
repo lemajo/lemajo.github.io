@@ -28,7 +28,7 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
     
     <div style="overflow: hidden;">
         <strong>Epstein-Poincaré surfaces for G-opers.</strong><br>
-        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted).
+        <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted) <a href="https://lemajo.github.io/pdfs/addendum-ep.pdf">[Addendum]</a>.
         </em>
     </div>
 </div>
