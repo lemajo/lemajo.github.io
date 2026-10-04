@@ -20,9 +20,6 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
         <strong>On separated families of Anosov representations.</strong><br>
         <em>Joint with <a href="https://joacolej.github.io">Joaquin Lejtreger</a>.</em>
         <em>Preprint (2026). <a href="https://arxiv.org/abs/2604.18994">[arXiv:2604.18994]</a> (submitted).</em>
-        <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
-            <strong>Summary:</strong> We introduce different notions of separation for families of Anosov representations. We show that, along a diverging sequence of such families, the critical exponent is asymptotic to a combinatorial invariant computable from the spectral data of a finite graph.
-        </p>
     </div>
 </div>
 
@@ -33,9 +30,6 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
         <strong>Epstein-Poincaré surfaces for G-opers.</strong><br>
         <em>Preprint (2026). <a href="https://arxiv.org/abs/2601.09936">[arXiv:2601.09936]</a> (submitted).
         </em>
-        <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
-            <strong>Summary:</strong> We extend the notion of Epstein-Poincaré surfaces to G-opers and use them to understand the holonomy of an oper near the Fuchsian locus.
-        </p>
     </div>
 </div>
 
@@ -47,9 +41,6 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
     <div style="overflow: hidden;">
         <strong>Uniform foliations with Reeb components.</strong><br>
         <em>Algebraic & Geometric Topology 23:9 (2023), 4379–4400. <a href="https://msp.org/agt/2023/23-9/agt-v23-n9-p10-s.pdf">[Journal]</a> <a href="LINK_TO_ARXIV">[arXiv]</a>.</em>
-        <p style="margin-top: 5px; font-size: 0.95em; color: #444;">
-            <strong>Summary:</strong> We show examples and control the behavior of uniform foliations with Reeb components in closed three-manifolds.
-        </p>
     </div>
 </div>
 
