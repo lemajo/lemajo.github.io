@@ -27,6 +27,7 @@ feel free to reach out, I am happy to share them.
 
 | Course | Role | Term |
 |--------|------|------|
+| **Analysis I** (Math 3321) | Teaching Assistant | Fall 2026 |
 |**Finite Probability and Applications** (Math 1004) | Designer & Instructor | Summer 2026 |
 | **Analysis I** (Math 3321) | Teaching Assistant | Fall 2025 |
 | **Finite Probability and Applications** (Math 1004) | Designer & Instructor | Summer 2025 |
