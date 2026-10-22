@@ -19,7 +19,7 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
     <div style="overflow: hidden;">
         <strong>SL3 (R) representations of ideal triangle groups from the inside.</strong><br>
         <em>Joint with <a href="https://joacolej.github.io">Joaquín Lejtreger</a>.</em>
-        <em>Preprint (2026). <a href="[https://arxiv.org/abs/2604.18994](https://lemajo.github.io/pdfs/papersl3R.pdf)">[Available here]</a>.</em>
+        <em>Preprint (2026). <a href="https://lemajo.github.io/pdfs/papersl3R.pdf">[Available here]</a>.</em>
     </div>
 </div>
 
