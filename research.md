@@ -14,11 +14,21 @@ My main interest is the study of discrete subgroups of Lie groups, particularly 
 ## Preprints
 
 <div style="margin-bottom: 30px; overflow: auto;">
+    <img src="images/paper-w3.jpg" alt="A wall" style="width:120px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    
+    <div style="overflow: hidden;">
+        <strong>SL3 (R) representations of ideal triangle groups from the inside.</strong><br>
+        <em>Joint with <a href="https://joacolej.github.io">Joaquín Lejtreger</a>.</em>
+        <em>Preprint (2026). <a href="[https://arxiv.org/abs/2604.18994](https://lemajo.github.io/pdfs/papersl3R.pdf)">[Available here]</a>.</em>
+    </div>
+</div>
+
+<div style="margin-bottom: 30px; overflow: auto;">
     <img src="images/paper-separated_page-0001.jpg" alt="Separated Representations" style="width:120px; border-radius:8px; float:left; margin-right:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     
     <div style="overflow: hidden;">
         <strong>On separated families of Anosov representations.</strong><br>
-        <em>Joint with <a href="https://joacolej.github.io">Joaquin Lejtreger</a>.</em>
+        <em>Joint with <a href="https://joacolej.github.io">Joaquín Lejtreger</a>.</em>
         <em>Preprint (2026). <a href="https://arxiv.org/abs/2604.18994">[arXiv:2604.18994]</a> (submitted).</em>
     </div>
 </div>
@@ -53,12 +63,5 @@ Available upon request.
     <li>
         <strong>Zariski-density of discrete subgroups and their flag limit sets.</strong><br>
         <em>Joint with <a href="https://www.math.uni-bonn.de/people/douba/">Sami Douba</a> and <a href="https://www.ihes.fr/~/galiay/">Blandine Galiay</a>.</em>
-    </li>
-</ul>
-
-<ul>
-    <li>
-        <strong>Convex projective structures in the ideal reflection orbifold from the inside.</strong><br>
-        <em>Joint with <a href="https://joacolej.github.io">Joaquin Lejtreger</a>.</em>
     </li>
 </ul>
