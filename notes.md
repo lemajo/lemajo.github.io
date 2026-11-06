@@ -13,10 +13,9 @@ Here is a collection of my academic theses and expository notes.
 
 ### En español
 
-- **[Foliaciones uniformes en 3-variedades](pdfs/main.pdf)** (Tesis de maestría).
-  <br><strong>Resumen:</strong> Es una version extendida de mi primer articulo que pueden encontrar [acá](/research). Ojalá resulte una introducción decente a la topología de tres variedades y a foliaciones.
-  <br><br>
+- **[Foliaciones uniformes en 3-variedades](/pdfs/main.pdf)** (Tesis de maestría).  
+  **Resumen:** Es una version extendida de mi primer articulo que pueden encontrar [acá](/research). Ojalá resulte una introducción decente a la topología de tres variedades y a foliaciones.
 
-- **[Curvas pseudoholomorfas y aplicaciones](pdfs/Tesis_final.pdf)** (Tesis de licenciatura).
-  <br><strong>Resumen:</strong> El objetivo es dar una prueba autocontenida del teorema "non-squeezing" de Gromov. Compila muchas cosas que en el momento no estaban juntas en ninguna referencia (ahora quizás es distinto). Estoy particularmente contento con la prueba de Riemann-Roch.
+- **[Curvas pseudoholomorfas y aplicaciones](/pdfs/Tesis_final.pdf)** (Tesis de licenciatura).  
+  **Resumen:** El objetivo es dar una prueba autocontenida del teorema "non-squeezing" de Gromov. Compila muchas cosas que en el momento no estaban juntas en ninguna referencia (ahora quizás es distinto). Estoy particularmente contento con la prueba de Riemann-Roch.
 

@@ -1,0 +1,67 @@
+---
+# The (empty) front matter above tells Jekyll to compile this file to assets/main.css.
+---
+
+// Load the minima theme's styles first, then add ours.
+@import "minima";
+
+// ---------- Intro paragraph (research page) ----------
+.lead {
+  font-size: 1.1em;
+  margin-bottom: 30px;
+}
+
+// ---------- Floating pictures (home and teaching pages) ----------
+.portrait {
+  float: right;
+  width: 325px;
+  max-width: 45%;
+  margin: 0 0 20px 30px;
+  text-align: center;
+
+  img {
+    border-radius: 10px;
+  }
+
+  figcaption {
+    font-size: 14px;
+    color: gray;
+  }
+}
+
+img.float-right {
+  float: right;
+  width: 325px;
+  max-width: 45%;
+  margin: 0 0 20px 30px;
+  border-radius: 10px;
+}
+
+// ---------- Papers (research page) ----------
+.paper {
+  margin-bottom: 30px;
+  overflow: auto;
+}
+
+.paper-thumb {
+  float: left;
+  width: 120px;
+  margin-right: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.paper-body {
+  overflow: hidden;
+}
+
+// ---------- Phones: stop floating, center the pictures ----------
+@media (max-width: 600px) {
+  .portrait,
+  img.float-right {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 0 auto 20px;
+  }
+}

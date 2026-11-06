@@ -5,11 +5,7 @@ layout: default
 
 # Teaching and Mentorship
 
-<div style="float: right; margin: 0 0 20px 30px; text-align: center;">
-  <img src="/images/teaching.jpeg" 
-       alt="Teaching at BC" 
-       style="width: 325px; border-radius: 10px;">
-</div>
+![Teaching at BC](/images/teaching.jpeg){: .float-right}
 
 I have been teaching mathematics since my undergraduate years in Uruguay, 
 where I held positions as a TA across a wide range of courses. At Boston College, 
@@ -28,7 +24,7 @@ feel free to reach out, I am happy to share them.
 | Course | Role | Term |
 |--------|------|------|
 | **Analysis I** (Math 3321) | Teaching Assistant | Fall 2026 |
-|**Finite Probability and Applications** (Math 1004) | Designer & Instructor | Summer 2026 |
+| **Finite Probability and Applications** (Math 1004) | Designer & Instructor | Summer 2026 |
 | **Analysis I** (Math 3321) | Teaching Assistant | Fall 2025 |
 | **Finite Probability and Applications** (Math 1004) | Designer & Instructor | Summer 2025 |
 | **Statistics for the Health Sciences** (Math 1180) | Instructor | Spring 2025 |
@@ -65,7 +61,7 @@ curious about mathematics at any level, feel free to get in touch.
   — Spring 2026  
   Mentored Eduardo Madero and Luke Kurta through a reading of Étienne Ghys's 
   *[A Singular Mathematical Promenade](https://arxiv.org/abs/1612.06373)*. Inspired by the project, 
-  Eduardo produced a [poster](pdfs/Poster_Eduardo.pdf) presented at the *Math for All* conference held at BC. 
+  Eduardo produced a [poster](/pdfs/Poster_Eduardo.pdf) presented at the *Math for All* conference held at BC. 
 
 - **Talleres de Matemática** (Uruguay)  
   Designed and delivered workshops on Euclidean geometry for high school 

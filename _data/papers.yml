@@ -1,0 +1,49 @@
+# Papers shown on research.md.
+# To add a paper: copy an entry, edit it, and put its thumbnail in images/.
+# Fields:
+#   title      Use \( ... \) for math, e.g. '\(\mathrm{SL}_3(\mathbb{R})\)'.
+#              (Use single quotes when the title contains backslashes.)
+#   image      File name inside images/.
+#   alt        Short description of the image (for screen readers).
+#   coauthors  Optional list of {name, url}.
+#   venue      Journal reference or "Preprint (year)."
+#   links      List of {label, url}; shown as [label].
+#   status     Optional, e.g. "(submitted)".
+
+preprints:
+  - title: '\(\mathrm{SL}_3(\mathbb{R})\) representations of ideal triangle groups from the inside'
+    image: paper-w3.jpg
+    alt: A wall
+    coauthors:
+      - { name: Joaquín Lejtreger, url: "https://joacolej.github.io" }
+    venue: Preprint (2026).
+    links:
+      - { label: Available here, url: /pdfs/papersl3R.pdf }
+
+  - title: On separated families of Anosov representations
+    image: paper-separated_page-0001.jpg
+    alt: Separated Representations
+    coauthors:
+      - { name: Joaquín Lejtreger, url: "https://joacolej.github.io" }
+    venue: Preprint (2026).
+    links:
+      - { label: "arXiv:2604.18994", url: "https://arxiv.org/abs/2604.18994" }
+    status: (submitted)
+
+  - title: Epstein-Poincaré surfaces for G-opers
+    image: paper-epstein.jpg
+    alt: Epstein Surfaces
+    venue: Preprint (2026).
+    links:
+      - { label: "arXiv:2601.09936", url: "https://arxiv.org/abs/2601.09936" }
+      - { label: Addendum, url: /pdfs/addendum-ep.pdf }
+    status: (submitted)
+
+publications:
+  - title: Uniform foliations with Reeb components
+    image: paper-uniformfol.jpeg
+    alt: Uniform Foliations
+    venue: Algebraic & Geometric Topology 23:9 (2023), 4379–4400.
+    links:
+      - { label: Journal, url: "https://msp.org/agt/2023/23-9/agt-v23-n9-p10-s.pdf" }
+      - { label: arXiv, url: "https://arxiv.org/abs/2112.04053v2" }

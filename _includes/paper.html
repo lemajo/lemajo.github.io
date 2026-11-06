@@ -1,0 +1,15 @@
+{%- comment -%}
+  Renders one paper. Usage: {% include paper.html paper=p %}
+  Data lives in _data/papers.yml; styling in assets/main.scss.
+{%- endcomment -%}
+{%- assign p = include.paper -%}
+<div class="paper">
+  <img class="paper-thumb" src="{{ '/images/' | append: p.image | relative_url }}" alt="{{ p.alt }}">
+  <div class="paper-body">
+    <strong>{{ p.title }}.</strong><br>
+    {%- if p.coauthors %}
+    <em>Joint with {% for c in p.coauthors %}<a href="{{ c.url }}">{{ c.name }}</a>{% unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless %}{% endfor %}.</em>
+    {%- endif %}
+    <em>{{ p.venue }}{% for l in p.links %} <a href="{{ l.url }}">[{{ l.label }}]</a>{% endfor %}{% if p.status %} {{ p.status }}{% endif %}.</em>
+  </div>
+</div>
