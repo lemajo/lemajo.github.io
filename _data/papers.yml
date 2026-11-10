@@ -11,14 +11,14 @@
 #   status     Optional, e.g. "(submitted)".
 
 preprints:
-  - title: '\(\mathrm{SL}_3(\mathbb{R})\) representations of ideal triangle groups from the inside'
+  - title: 'Parallel domains in \(SL_3(\mathbb{R})\) and the ideal triangle reflection group'
     image: paper-w3.jpg
     alt: A wall
     coauthors:
       - { name: Joaquín Lejtreger, url: "https://joacolej.github.io" }
     venue: Preprint (2026).
     links:
-      - { label: Available here, url: /pdfs/papersl3R.pdf }
+      - { label: "arXiv:2611.10823", url: "https://arxiv.org/abs/2611.10823" }
 
   - title: On separated families of Anosov representations
     image: paper-separated_page-0001.jpg
